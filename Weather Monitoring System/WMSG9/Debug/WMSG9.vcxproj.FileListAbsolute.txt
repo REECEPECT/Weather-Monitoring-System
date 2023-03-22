@@ -1,0 +1,30 @@
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.vcxproj.AssemblyReference.cache
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.LoginForm.resources
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.vcxproj.GenerateResource.cache
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.AnalyticsForm.resources
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.UserForm.resources
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.ResetPWForm.resources
+C:\Users\Student\source\repos\WMSG9\Debug\WMSG9.exe.config
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.exe.config
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.vcxproj.CopyComplete
+C:\Users\Student\source\repos\WMSG9\WMSG9\Debug\WMSG9.AdminHeader.resources
+E:\WMSG9 Copy 1\WMSG9\Debug\WMSG9.exe.config
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.vcxproj.AssemblyReference.cache
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.exe.config
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.AdminHeader.resources
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.AnalyticsForm.resources
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.LoginForm.resources
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.ResetPWForm.resources
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.UserForm.resources
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.vcxproj.GenerateResource.cache
+E:\WMSG9 Copy 1\WMSG9\WMSG9\Debug\WMSG9.vcxproj.CopyComplete
+C:\Users\Student\source\repos\Copy\WMSG9\Debug\WMSG9.exe.config
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.vcxproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.exe.config
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.AdminHeader.resources
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.AnalyticsForm.resources
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.LoginForm.resources
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.ResetPWForm.resources
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.UserForm.resources
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.vcxproj.GenerateResource.cache
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\Debug\WMSG9.vcxproj.CopyComplete

@@ -1,0 +1,10 @@
+﻿  AdminHeader.cpp
+  LoginForm.cpp
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\UserForm.h(1034,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\UserForm.h(1094,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\UserForm.h(1153,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\UserForm.h(1191,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Student\source\repos\Copy\WMSG9\WMSG9\LoginForm.cpp(5,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generating Code...
+  AdminHeader.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  WMSG9.vcxproj -> C:\Users\Student\source\repos\Copy\WMSG9\Debug\WMSG9.exe
